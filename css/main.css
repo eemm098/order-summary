@@ -73,7 +73,7 @@ line-height: 1.6;
 
  .card .card-info  p{
     padding:   0 1em;
-    line-height: 1.6;
+    line-height: 1.8;
     text-align: center;
     color: var(--grey-color);
  }
@@ -90,7 +90,7 @@ color:  var(--grey-color) ;
  }
 .card .card-info .buttons button{
     margin-bottom: 1em;
-    height: 3em;
+    height: 4em;
     width: 100%;
     border-radius: 1em;
     border: none;
